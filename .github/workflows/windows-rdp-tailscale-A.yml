@@ -41,9 +41,9 @@ defaults:
     shell: pwsh
 
 env:
-  RDP_USER: ziaadev
+  RDP_USER: luiii
   RDP_PASS: Ziaa@12345
-  TS_HOSTNAME: ziaadev
+  TS_HOSTNAME: luiii
 
 jobs:
   rdp:
