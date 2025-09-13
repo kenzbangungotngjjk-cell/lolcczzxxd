@@ -42,7 +42,7 @@ defaults:
 
 env:
   RDP_USER: lui
-  RDP_PASS: lui@12345
+  RDP_PASS: Luia@12345
   TS_HOSTNAME: lui
 
 jobs:
